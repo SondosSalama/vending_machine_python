@@ -1,0 +1,12 @@
+Display Screen Msg: Slot Number: 2
+Display Screen Msg: The price for s2 in slot 2 is 2.5$
+Display Screen Msg: Not a valid Note!
+Hardware: reject money of type: 30$
+Display Screen Msg: Not a valid Coin!
+Hardware: reject money of type: 2$
+Display Screen Msg: Total: 20
+Hardware: Push Snack in slot: 2 (0, 1) out!
+Display Screen Msg: Returning Change: 17.5$
+Hardware: Push the following Moneny out:
+1 coins of type 50c
+17 coins of type 1$

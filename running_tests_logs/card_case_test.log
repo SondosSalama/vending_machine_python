@@ -1,0 +1,14 @@
+Display Screen Msg: Slot Number: 2
+Display Screen Msg: The price for s2 in slot 2 is 2.5$
+Display Screen Msg: Total: 1.0
+Display Screen Msg: Total: 2.0
+Display Screen Msg: Can't insert notes or coins with Card in!
+Display Screen Msg: Returning Change: 2.0$
+Hardware: Push the following Moneny out:
+2 coins of type 1$
+Display Screen Msg: Card Inserted!
+Hardware: Check Card Data (VISA) and balance for 2.5$
+Hardware: Charging Card with: 2.5$
+Display Screen Msg: Card charge with: 2.5$
+Hardware: Push Card out!
+Hardware: Push Snack in slot: 2 (0, 1) out!

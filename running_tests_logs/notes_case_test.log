@@ -1,0 +1,58 @@
+Slot: 1
+{name: s1, qty: 1, price: 3}
+Slot: 2
+{name: s2, qty: 2, price: 2.5}
+Slot: 3
+{name: s3, qty: 2, price: 1.2}
+Slot: 4
+{name: s4, qty: 4, price: 3.2}
+Slot: 5
+{name: s5, qty: 5, price: 4}
+Slot: 6
+{name: s6, qty: 3, price: 3.2}
+Slot: 7
+{name: s7, qty: 2, price: 2.3}
+Slot: 8
+{name: s8, qty: 2, price: 1.7}
+Slot: 9
+{name: s9, qty: 4, price: 5.1}
+Slot: 10
+{name: s10, qty: 4, price: 1.5}
+Slot: 11
+{name: s11, qty: 1, price: 3.4}
+Slot: 12
+{name: s12, qty: 2, price: 2.7}
+Slot: 13
+{name: s13, qty: 2, price: 1.5}
+Slot: 14
+{name: s14, qty: 4, price: 5.2}
+Slot: 15
+{name: s15, qty: 4, price: 2.5}
+Slot: 16
+{name: s16, qty: 4, price: 3.5}
+Slot: 17
+{name: s17, qty: 2, price: 2.8}
+Slot: 18
+{name: s18, qty: 2, price: 1.1}
+Slot: 19
+{name: s19, qty: 4, price: 5.4}
+Slot: 20
+{name: s20, qty: 4, price: 3.5}
+Slot: 21
+{name: s21, qty: 6, price: 3.6}
+Slot: 22
+{name: s22, qty: 2, price: 2.0}
+Slot: 23
+{name: s23, qty: 2, price: 1.3}
+Slot: 24
+{name: s24, qty: 4, price: 5.5}
+Slot: 25
+{name: s25, qty: 4, price: 5.5}
+Display Screen Msg: Slot Number: 2
+Display Screen Msg: The price for s2 in slot 2 is 2.5$
+Display Screen Msg: Total: 20
+Hardware: Push Snack in slot: 2 (0, 1) out!
+Display Screen Msg: Returning Change: 17.5$
+Hardware: Push the following Moneny out:
+1 coins of type 50c
+17 coins of type 1$

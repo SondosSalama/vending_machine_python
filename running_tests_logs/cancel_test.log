@@ -1,0 +1,9 @@
+Display Screen Msg: Slot Number: 2
+Display Screen Msg: The price for s2 in slot 2 is 2.5$
+Display Screen Msg: Total: 0.5
+Display Screen Msg: Cancel select and returning the money!
+Display Screen Msg: Returning Change: 0.5$
+Hardware: Push the following Moneny out:
+1 coins of type 50c
+Display Screen Msg: Select Item First!
+Hardware: reject money of type: 20$

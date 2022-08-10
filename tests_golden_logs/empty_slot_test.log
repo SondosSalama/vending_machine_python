@@ -1,0 +1,9 @@
+Display Screen Msg: Slot Number: 1
+Display Screen Msg: The price for s1 in slot 1 is 3$
+Display Screen Msg: Total: 20
+Hardware: Push Snack in slot: 1 (0, 0) out!
+Display Screen Msg: Returning Change: 17$
+Hardware: Push the following Moneny out:
+17 coins of type 1$
+Display Screen Msg: Slot Number: 1
+Display Screen Msg: Slot 1 is empty, please chooce a different one!
